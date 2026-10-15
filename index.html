@@ -59,6 +59,7 @@
   "areaServed": "PT",
   "description": "Assinatura de IPTV em Portugal com canais portugueses e internacionais, desporto premium, VOD e qualidade até 4K.",
   "offers": [
+    { "@type": "Offer", "name": "IPTV Portugal - 1 Mês / 1 Dispositivo", "price": "15", "priceCurrency": "EUR", "url": "https://goldengateiptv.pt/#planos" },
     { "@type": "Offer", "name": "IPTV Portugal - 3 Meses / 1 Dispositivo", "price": "32", "priceCurrency": "EUR", "url": "https://goldengateiptv.pt/#planos" },
     { "@type": "Offer", "name": "IPTV Portugal - 6 Meses / 1 Dispositivo", "price": "42", "priceCurrency": "EUR", "url": "https://goldengateiptv.pt/#planos" },
     { "@type": "Offer", "name": "IPTV Portugal - 12 Meses / 1 Dispositivo", "price": "62", "priceCurrency": "EUR", "url": "https://goldengateiptv.pt/#planos" }
@@ -210,8 +211,9 @@
   .device-toggle{display:flex; justify-content:center; gap:8px; margin-bottom:30px; flex-wrap:wrap;}
   .devbtn{border:1px solid var(--border); background:var(--surface); color:var(--text-dim); font-weight:700; font-size:13.5px; padding:10px 20px; border-radius:100px; cursor:pointer; transition:all .2s ease;}
   .devbtn.active{background:var(--accent); color:#000; border-color:var(--accent); box-shadow:var(--shadow-accent);}
-  .pricing-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:20px;}
-  @media (max-width:860px){ .pricing-grid{grid-template-columns:1fr;} }
+  .pricing-grid{display:grid; grid-template-columns:repeat(4,1fr); gap:16px;}
+  @media (max-width:1100px){ .pricing-grid{grid-template-columns:repeat(2,1fr);} }
+  @media (max-width:640px){ .pricing-grid{grid-template-columns:1fr;} }
   .plan{background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg,20px); padding:32px 28px; display:flex; flex-direction:column; gap:14px; position:relative; transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease;}
   .plan:hover{border-color:var(--border-accent); transform:translateY(-4px); box-shadow:var(--shadow-accent);}
   .plan.pop{background:linear-gradient(135deg, var(--accent-dim) 0%, rgba(10,10,10,.95) 100%); border-color:var(--border-accent); box-shadow:var(--shadow-accent); transform:scale(1.03);}
@@ -418,6 +420,23 @@
       </div>
 
       <div class="pricing-grid" id="pricing-grid">
+        <div class="plan" data-duration="1" data-page="/pack-mensal">
+          <span class="off">Sem fidelização</span>
+          <h3>1 Mês</h3>
+          <div class="price"><b class="price-amount">15€</b><small class="price-devices">/ 1 dispositivo</small></div>
+          <ul>
+            <li>55.000+ canais ao vivo em todo o mundo</li>
+            <li>90.000+ filmes e séries on demand</li>
+            <li>Canais desportivos premium</li>
+            <li>Time-Shift e Guia EPG</li>
+            <li>Qualidade SD, HD, FHD e 4K</li>
+            <li>Atualizações diárias</li>
+            <li>Garantia de reembolso de 7 dias</li>
+            <li>Suporte 24/7 via WhatsApp e e-mail</li>
+          </ul>
+          <a class="btn btn-dark order-btn" href="/pack-mensal">Escolher Mensal</a>
+          <p class="paymeth">Confirmação e pagamento via WhatsApp</p>
+        </div>
         <div class="plan" data-duration="3" data-page="/pack-trimestral">
           <span class="off">65% OFF</span>
           <h3>3 Meses</h3>
@@ -512,6 +531,7 @@
             </thead>
             <tbody>
               <tr><td>Ideal para</td><td>Uso individual</td><td class="hl">Casal / partilha</td><td>Família</td></tr>
+              <tr><td>Preço · 1 mês</td><td>15€</td><td class="hl">25€</td><td>35€</td></tr>
               <tr><td>Preço · 3 meses</td><td>32€</td><td class="hl">47€</td><td>80€</td></tr>
               <tr><td>Preço · 6 meses</td><td>42€</td><td class="hl">67€</td><td>90€</td></tr>
               <tr><td>Preço · 12 meses</td><td>62€</td><td class="hl">94€</td><td>150€</td></tr>
@@ -693,7 +713,7 @@
         <table class="compare">
           <thead><tr><th>Características</th><th>IPTV Portugal</th><th>TV por Cabo</th></tr></thead>
           <tbody>
-            <tr><td>Preço a partir de</td><td class="us">32€ / 3 meses</td><td class="dim">≈ 90€+ / 3 meses</td></tr>
+            <tr><td>Preço a partir de</td><td class="us">15€ / mês</td><td class="dim">≈ 30€+ / mês</td></tr>
             <tr><td>Número de canais</td><td class="us">55.000+ canais</td><td class="dim">≈ 200 canais</td></tr>
             <tr><td>Qualidade 4K</td><td class="us">Incluída</td><td class="dim">Limitada a certos canais</td></tr>
             <tr><td>Filmes e séries VOD</td><td class="us">90.000+ títulos</td><td class="dim">Catálogo limitado</td></tr>
@@ -799,7 +819,7 @@
       <div class="about-cards">
         <div><b>Suporte real</b><p>Respostas por WhatsApp e e-mail, sem chatbots nem guiões automáticos.</p></div>
         <div><b>Servidores dedicados</b><p>Infraestrutura multi-servidor pensada para estabilidade nas horas de maior procura.</p></div>
-        <div><b>Sem fidelização</b><p>Planos de 3, 6 ou 12 meses, sem renovação forçada.</p></div>
+        <div><b>Sem fidelização</b><p>Planos de 1, 3, 6 ou 12 meses, sem renovação forçada.</p></div>
         <div><b>Garantia de 7 dias</b><p>Se não for o que esperava, devolvemos o valor pago.</p></div>
       </div>
     </div>
@@ -911,6 +931,9 @@
 <script>
   // Real pricing + WhatsApp order links, taken from goldengateiptv.pt
   var PRICING = {
+    1:  { 1: {price:15,  link:"https://api.whatsapp.com/send/?phone=212707711512&text=goldengateiptv.pt%20-%201%20Month%20/%201%20Device%20-%2015%E2%82%AC&type=phone_number&app_absent=0"},
+          2: {price:25,  link:"https://api.whatsapp.com/send/?phone=212707711512&text=goldengateiptv.pt%20-%201%20Month%20/%202%20Devices%20-%2025%E2%82%AC&type=phone_number&app_absent=0"},
+          3: {price:35,  link:"https://api.whatsapp.com/send/?phone=212707711512&text=goldengateiptv.pt%20-%201%20Month%20/%203%20Devices%20-%2035%E2%82%AC&type=phone_number&app_absent=0"} },
     3:  { 1: {price:32,  link:"https://api.whatsapp.com/send/?phone=212707711512&text=goldengateiptv.pt%20-%203%20Months%20/%201%20Device%20-%2032%E2%82%AC&type=phone_number&app_absent=0"},
           2: {price:47,  link:"https://api.whatsapp.com/send/?phone=212707711512&text=goldengateiptv.pt%20-%203%20Months%20/%202%20Devices%20-%2047%E2%82%AC&type=phone_number&app_absent=0"},
           3: {price:80,  link:"https://api.whatsapp.com/send/?phone=212707711512&text=goldengateiptv.pt%20-%203%20Months%20/%203%20Devices%20-%2080%E2%82%AC&type=phone_number&app_absent=0"} },
