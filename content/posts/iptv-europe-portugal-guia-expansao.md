@@ -96,7 +96,7 @@ Ver as notícias locais, os programas de entretenimento e o futebol nacional é 
 
 ## 10. Resolução de Problemas Comuns
 
-Mesmo no [melhor IPTV para Portugal](https://www.google.com/search?q=https://www.iptvportuguesse.com/melhor-iptv-para-portugal), podem surgir soluços técnicos. Aqui está uma tabela rápida de diagnóstico:
+Mesmo no [melhor IPTV para Portugal](/melhor-iptv-para-portugal), podem surgir soluços técnicos. Aqui está uma tabela rápida de diagnóstico:
 
 | **Problema** | **Causa Provável** | **Solução** |
 |---|---|---|

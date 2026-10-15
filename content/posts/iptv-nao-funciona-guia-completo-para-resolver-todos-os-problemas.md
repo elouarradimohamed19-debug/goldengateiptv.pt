@@ -8,7 +8,7 @@ category: "Guia · IPTV Portugal"
 
 ## IPTV Não Funciona: Guia Completo para Identificar e Resolver o Problema
 
-Se o seu [**IPTV não funciona**](https://www.iptvportuguesse.com/iptv-setup), você não está sozinho. Milhares de utilizadores enfrentam diariamente problemas como canais que não carregam, travamentos constantes, buffering excessivo ou até falhas completas no serviço. A boa notícia é que, na maioria dos casos, esses problemas têm solução.
+Se o seu [**IPTV não funciona**](/iptv-setup), você não está sozinho. Milhares de utilizadores enfrentam diariamente problemas como canais que não carregam, travamentos constantes, buffering excessivo ou até falhas completas no serviço. A boa notícia é que, na maioria dos casos, esses problemas têm solução.
 
 Neste guia completo, vamos explicar **por que o IPTV não funciona**, como identificar a causa do erro e quais são as **melhores soluções práticas**, passo a passo.
 

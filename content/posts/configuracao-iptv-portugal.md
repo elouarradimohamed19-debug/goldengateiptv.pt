@@ -10,7 +10,7 @@ category: "Guia · IPTV Portugal"
 
 A forma como consumimos televisão em Portugal mudou drasticamente nos últimos anos. Já não estamos presos aos horários rígidos das grelhas de programação tradicionais ou aos pacotes limitados das operadoras convencionais. Hoje, a tecnologia de **IPTV (Internet Protocol Television)** oferece flexibilidade, qualidade e uma variedade imensa de conteúdos.
 
-No entanto, para muitos utilizadores, o primeiro contacto com esta tecnologia pode parecer um pouco técnico. Se chegou até aqui, provavelmente procura entender como funciona a [**Configuração IPTV Portugal**](https://www.iptvportuguesse.com/iptv-setup) e como pode tirar o melhor partido da sua ligação à internet para ver TV.
+No entanto, para muitos utilizadores, o primeiro contacto com esta tecnologia pode parecer um pouco técnico. Se chegou até aqui, provavelmente procura entender como funciona a [**Configuração IPTV Portugal**](/iptv-setup) e como pode tirar o melhor partido da sua ligação à internet para ver TV.
 
 Neste artigo extenso e detalhado, vamos desmistificar todo o processo. Desde a escolha da aplicação certa até à resolução de problemas de “buffering” (travamentos), preparamos um manual prático e honesto para garantir que a sua experiência seja impecável.
 

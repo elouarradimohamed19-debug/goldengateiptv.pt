@@ -10,7 +10,7 @@ category: "Guia · IPTV Portugal"
 
 A forma como consumimos entretenimento em casa mudou drasticamente na última década. Já não estamos presos aos horários rígidos das emissoras de televisão tradicionais ou à necessidade de instalar antenas parabólicas complexas no telhado. Hoje, a liberdade de escolha impera.
 
-Em Portugal, esta revolução digital tem um nome que ganha cada vez mais força: [**IPTV Portugal**](https://www.iptvportuguesse.com/). Se já ouviu falar deste termo mas ainda tem dúvidas, ou se procura melhorar a sua experiência atual de televisão, chegou ao sítio certo. Este guia foi criado para explicar, de forma simples e honesta, tudo o que precisa de saber sobre esta tecnologia.
+Em Portugal, esta revolução digital tem um nome que ganha cada vez mais força: [**IPTV Portugal**](/). Se já ouviu falar deste termo mas ainda tem dúvidas, ou se procura melhorar a sua experiência atual de televisão, chegou ao sítio certo. Este guia foi criado para explicar, de forma simples e honesta, tudo o que precisa de saber sobre esta tecnologia.
 
 **Resumo Rápido:** O IPTV utiliza a sua ligação à internet para transmitir canais de televisão, filmes e séries diretamente para a sua Smart TV, computador ou telemóvel, eliminando a necessidade de cabos ou satélites.
 

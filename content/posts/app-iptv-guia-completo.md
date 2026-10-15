@@ -16,7 +16,7 @@ Neste guia completo, vamos explorar tudo o que precisa de saber para escolher, i
 
 Para começar, é fundamental compreender a tecnologia por trás destas aplicações. IPTV significa *Internet Protocol Television* (Televisão por Protocolo de Internet). Em termos simples, em vez de receber o sinal de TV através de uma antena, satélite ou cabo de fibra ótica tradicional, recebe-o através da sua ligação à internet.
 
-No entanto, é muito importante fazer uma distinção: um **app iptv** é apenas um leitor (um reprodutor de media). A esmagadora maioria destas aplicações não inclui qualquer conteúdo de forma nativa. O seu papel é ler as listas de canais (frequentemente em formato M3U ou através da API Xtream Codes) que o utilizador fornece. Se quiser aprofundar os aspetos técnicos, recomendamos que leia o nosso artigo dedicado para [entender como o IPTV funciona em Portugal](https://www.google.com/search?q=https://www.iptvportuguesse.com/o-que-e-iptv-e-como-funciona-em-portugal).
+No entanto, é muito importante fazer uma distinção: um **app iptv** é apenas um leitor (um reprodutor de media). A esmagadora maioria destas aplicações não inclui qualquer conteúdo de forma nativa. O seu papel é ler as listas de canais (frequentemente em formato M3U ou através da API Xtream Codes) que o utilizador fornece. Se quiser aprofundar os aspetos técnicos, recomendamos que leia o nosso artigo dedicado para [entender como o IPTV funciona em Portugal](/o-que-e-iptv-e-como-funciona-em-portugal).
 
 ### Vantagens de Usar uma Aplicação Dedicada
 
@@ -54,14 +54,14 @@ Configurar o seu leitor de canais é um processo geralmente direto. Siga estes p
 3. **Insira os Dados:** Digite cuidadosamente o URL do servidor, o seu *Username* e *Password*. Dê um nome à lista (ex: “Minha TV”).
 4. **Aguarde o Carregamento:** A aplicação irá agora descarregar os canais, o guia de programação (EPG) e as capas dos filmes. Este processo pode demorar alguns minutos na primeira vez.
 
-Para tutoriais mais detalhados sobre marcas e modelos específicos, consulte o nosso guia passo-a-passo sobre a [configuração do seu serviço IPTV](https://www.google.com/search?q=https://www.iptvportuguesse.com/configuracao-iptv-portugal).
+Para tutoriais mais detalhados sobre marcas e modelos específicos, consulte o nosso guia passo-a-passo sobre a [configuração do seu serviço IPTV](/configuracao-iptv-portugal).
 
 ### Problemas Comuns e Soluções no Seu Aplicativo IPTV
 
 Mesmo com a melhor internet e a melhor aplicação, podem surgir alguns percalços técnicos. Aqui estão os mais comuns e como resolvê-los rapidamente:
 
 - **A lista de canais não carrega:** Verifique se digitou o URL ou as credenciais corretamente (tenha atenção a maiúsculas e minúsculas). Certifique-se também de que o seu fornecedor de serviço não está em manutenção.
-- **Travamentos e Cortes na Emissão (Buffering):** Este é o problema mais frustrante. Pode ser causado por falhas na sua internet, limitação de tráfego pelo seu fornecedor de internet (Traffic Shaping), ou sobrecarga no servidor da lista. Se sofre deste mal, leia as nossas dicas avançadas para [resolver problemas de buffering constantes](https://www.google.com/search?q=https://www.iptvportuguesse.com/iptv-buffering-solucao).
+- **Travamentos e Cortes na Emissão (Buffering):** Este é o problema mais frustrante. Pode ser causado por falhas na sua internet, limitação de tráfego pelo seu fornecedor de internet (Traffic Shaping), ou sobrecarga no servidor da lista. Se sofre deste mal, leia as nossas dicas avançadas para [resolver problemas de buffering constantes](/iptv-buffering-solucao).
 - **Guia de Programação (EPG) Vazio:** Pode forçar a atualização do EPG nas definições do aplicativo IPTV. Se não resultar, limpe a *cache* da aplicação nas definições do seu dispositivo e reinicie.
 
 ## É Seguro e Legal Usar um App IPTV em Portugal?

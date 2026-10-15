@@ -2,7 +2,7 @@
 // No dependencies. Run: node build.js
 const fs = require('fs'), path = require('path');
 const ROOT = __dirname, OUT = path.join(ROOT, 'public');
-const BASE = 'https://www.iptvportuguesse.com';
+const BASE = 'https://goldengateiptv.pt';
 
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const jsonStr = s => JSON.stringify(s);

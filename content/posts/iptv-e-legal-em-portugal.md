@@ -8,7 +8,7 @@ category: "Guia · IPTV Portugal"
 
 ## IPTV é legal em Portugal? Guia completo e atualizado
 
-A pergunta **“[IPTV é legal em Portugal?](https://www.iptvportuguesse.com/iptv-setup)”** é cada vez mais comum entre utilizadores que procuram alternativas modernas à televisão tradicional. Com o crescimento dos serviços de streaming e da televisão via internet, surgem também dúvidas sobre legalidade, direitos de autor e possíveis penalizações.
+A pergunta **“[IPTV é legal em Portugal?](/iptv-setup)”** é cada vez mais comum entre utilizadores que procuram alternativas modernas à televisão tradicional. Com o crescimento dos serviços de streaming e da televisão via internet, surgem também dúvidas sobre legalidade, direitos de autor e possíveis penalizações.
 
 Neste guia completo, vamos explicar **o que é IPTV**, **quando é legal em Portugal**, **quando é ilegal**, quais são os **riscos reais**, o que diz a legislação portuguesa e europeia, e **como escolher um serviço IPTV legal e seguro**.
 
