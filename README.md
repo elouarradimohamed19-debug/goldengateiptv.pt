@@ -1,6 +1,6 @@
 # IPTV Portugal — static site
 
-Static site for goldengateiptv.pt, built with a tiny dependency-free script (`node build.js`) and deployed on Vercel.
+Static site for www.goldengateiptv.pt, built with a tiny dependency-free script (`node build.js`) and deployed on Vercel.
 
 ## Structure
 - `content/posts/*.md` — the blog articles as Markdown (file name = URL slug)
