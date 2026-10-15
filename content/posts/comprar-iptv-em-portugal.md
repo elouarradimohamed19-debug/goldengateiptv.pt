@@ -1,8 +1,7 @@
 ---
 title: "Comprar IPTV em Portugal: Guia Completo 2026"
 description: "Comprar IPTV em Portugal tornou-se uma decisão estratégica para quem procura mais canais, melhor qualidade de imagem e maior flexibilidade do que a…"
-date: "2026-02-23"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

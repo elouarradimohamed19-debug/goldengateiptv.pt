@@ -1,8 +1,7 @@
 ---
 title: "IPTV Barato Portugal Guia Completo para Poupar em 2026"
 description: "No cenário atual do entretenimento digital, os consumidores procuram cada vez mais alternativas acessíveis aos pacotes tradicionais de cabo. Encontrar um…"
-date: "2026-03-12"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

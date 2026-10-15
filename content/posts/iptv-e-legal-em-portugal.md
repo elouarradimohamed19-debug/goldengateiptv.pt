@@ -1,8 +1,7 @@
 ---
 title: "IPTV é legal em Portugal? Guia completo sobre leis, riscos e uso seguro"
 description: "A pergunta “IPTV é legal em Portugal?” é cada vez mais comum entre utilizadores que procuram alternativas modernas à televisão tradicional. Com o…"
-date: "2026-01-10"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 
@@ -158,7 +157,7 @@ Muitas pessoas usam VPNs com IPTV, mas é importante esclarecer:
 
 A VPN pode proteger a privacidade, mas **não altera a legalidade do serviço IPTV**.
 
-## IPTV gratuito é legal?
+## As listas IPTV não oficiais são legais?
 
 Na maioria dos casos, **não**.
 

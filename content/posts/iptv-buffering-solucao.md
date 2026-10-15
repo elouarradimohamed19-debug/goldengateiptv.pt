@@ -1,8 +1,7 @@
 ---
 title: "IPTV Buffering Solução: Como eliminar travamentos e melhorar o streaming"
 description: "O buffering é um dos problemas mais frustrantes para quem utiliza IPTV. Nada interrompe mais a experiência de assistir TV do que a imagem parando…"
-date: "2026-01-13"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

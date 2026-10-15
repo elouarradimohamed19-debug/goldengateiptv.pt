@@ -97,13 +97,13 @@ const posts = fs.readdirSync(path.join(ROOT, 'content/posts')).filter(f => f.end
 const articleTpl = fs.readFileSync(path.join(ROOT, 'templates/article.html'), 'utf8');
 for (const p of posts) {
   const html = fill(articleTpl, {
-    title: esc(p.title), description: esc(p.description), slug: p.slug, date: p.date, dateHuman: human(p.date), updated: p.updated, updatedHuman: human(p.updated),
+    title: esc(p.title), description: esc(p.description), slug: p.slug, date: p.date, dateHuman: human(p.date), updated: p.updated, updatedLine: p.updated === p.date ? '' : ` · Atualizado em ${human(p.updated)}`,
     category: esc(p.category), jsonTitle: jsonStr(p.title), jsonDescription: jsonStr(p.description), body: markdown(p.body),
   });
   fs.writeFileSync(path.join(OUT, p.slug + '.html'), html);
 }
 const cards = posts.map(p => `    <a class="card" href="/${p.slug}">
-      <div class="cdate">Atualizado em ${human(p.updated)} · ${Math.max(1, Math.round(p.words / 200))} min de leitura</div>
+      <div class="cdate">${human(p.updated)} · ${Math.max(1, Math.round(p.words / 200))} min de leitura</div>
       <div class="ctitle">${esc(p.title)}</div>
       <div class="cex">${esc(p.description.length > 170 ? p.description.slice(0, 167) + '…' : p.description)}</div>
     </a>`).join('\n');

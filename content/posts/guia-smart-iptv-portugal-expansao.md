@@ -1,8 +1,7 @@
 ---
 title: "Smart IPTV em Portugal O Guia Definitivo de Configuração e Expansão 2026"
 description: "A revolução do entretenimento digital em Portugal atingiu um novo patamar. Se procura liberdade para assistir aos seus conteúdos favoritos, a tecnologia…"
-date: "2026-03-26"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

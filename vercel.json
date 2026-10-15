@@ -8,6 +8,21 @@
       "source": "/iptv-portuguesse-plano-expansao",
       "destination": "/iptv-portugal-guia-completo",
       "permanent": true
+    },
+    {
+      "source": "/iptv-gratis-para-tv",
+      "destination": "/teste-iptv-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/iptv-codigos-gratis-tv-ilimitada",
+      "destination": "/iptv-barato-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/lista-iptv-portugal-gratis-plano-expansao",
+      "destination": "/iptv-barato-portugal",
+      "permanent": true
     }
   ]
 }

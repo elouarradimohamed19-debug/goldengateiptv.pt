@@ -1,8 +1,7 @@
 ---
 title: "Melhor Aplicação IPTV para Smart TV: Guia Completo (2026)"
 description: "Encontrar a melhor aplicação IPTV para a sua Smart TV é o segredo para desbloquear todo o potencial do seu entretenimento e ir muito além dos serviços de…"
-date: "2026-01-17"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

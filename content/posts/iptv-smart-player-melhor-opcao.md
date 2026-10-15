@@ -1,8 +1,7 @@
 ---
 title: "O Melhor IPTV Smart Player: Descubra os Segredos"
 description: "Se você está procurando por uma maneira de assistir TV sem limites, o IPTV Smart Player é a solução perfeita. Com ele, você pode ter acesso a milhares de…"
-date: "2026-03-28"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

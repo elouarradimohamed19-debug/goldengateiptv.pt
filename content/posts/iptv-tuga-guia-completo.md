@@ -1,8 +1,7 @@
 ---
 title: "IPTV Tuga O Guia Completo para Televisão em Portugal"
 description: "Procura o melhor iptv tuga? Descubra como funciona, as principais vantagens e como configurar a sua televisão por internet hoje. Leia o nosso."
-date: "2026-05-02"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

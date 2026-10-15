@@ -1,8 +1,7 @@
 ---
 title: "IPTV Canais Não Carregam? O Guia de Soluções Rápidas"
 description: "Aquele momento frustrante: você senta-se no sofá, liga a televisão, abre a sua aplicação de IPTV pronto para relaxar… e nada. Apenas um ecrã preto, um…"
-date: "2026-01-12"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

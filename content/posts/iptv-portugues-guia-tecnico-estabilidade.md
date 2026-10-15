@@ -1,8 +1,7 @@
 ---
 title: "IPTV Português 2026: Guia Técnico de Estabilidade e Autoridade"
 description: "O ecossistema de IPTV Português evoluiu de uma simples alternativa de transmissão para uma infraestrutura complexa de entrega de conteúdos digitais. Em…"
-date: "2026-03-04"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 

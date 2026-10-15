@@ -1,8 +1,7 @@
 ---
 title: "Melhor IPTV para Portugal: O Guia Completo e Comparativo 2026"
 description: "O mercado de entretenimento digital em Portugal sofreu uma metamorfose profunda nos últimos anos. Com o aumento dos preços dos pacotes de cabo…"
-date: "2026-01-30"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 
@@ -91,7 +90,7 @@ Isto acontece por duas razões: primeiro, devido à enorme carga nos servidores 
 
 Não. O IPTV é apenas software que processa dados. Não causa qualquer dano físico ao seu hardware. No entanto, usar aplicações de fontes não oficiais pode expor o seu dispositivo a vulnerabilidades de segurança.
 
-### Existe algum IPTV grátis em Portugal que seja bom?
+### Vale a pena usar listas IPTV não oficiais?
 
 Existem listas IPTV gratuitas legais (como a do projeto TDT), mas estas limitam-se aos canais abertos. Serviços que prometem canais premium de graça são geralmente inseguros, cheios de publicidade e extremamente instáveis.
 

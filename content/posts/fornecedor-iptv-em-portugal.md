@@ -1,8 +1,7 @@
 ---
 title: "Fornecedor IPTV em Portugal: Guia Completo para Escolher com Segurança"
 description: "Escolher um fornecedor IPTV em Portugal não é apenas comparar preços ou número de canais. A decisão envolve infraestrutura, estabilidade de servidores…"
-date: "2026-02-12"
-updated: "2026-09-26"
+date: "2026-10-15"
 category: "Guia · IPTV Portugal"
 ---
 
