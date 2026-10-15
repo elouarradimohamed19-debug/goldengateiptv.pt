@@ -22,10 +22,10 @@ Em Portugal, o mercado de IPTV cresceu exponencialmente graças à excelente cob
 
 ### A Diferença entre IPTV e Streaming Convencional
 
-Muitas pessoas confundem IPTV com serviços como a Netflix ou o YouTube. Embora ambos usem a internet, existem diferenças fundamentais:
+Muitas pessoas confundem IPTV com plataformas de vídeo online. Embora ambos usem a internet, existem diferenças fundamentais:
 
 - **IPTV:** Foca-se principalmente na transmissão de canais em direto (Live TV), funcionando como uma televisão tradicional, mas com funcionalidades modernas.
-- **Streaming (VOD):** Serviços como a Netflix focam-se em “Video on Demand” (Vídeo sob Demanda), onde escolhe um ficheiro de vídeo armazenado para ver quando quiser.
+- **Streaming (VOD):** As plataformas de streaming focam-se em “Video on Demand” (Vídeo sob Demanda), onde escolhe um ficheiro de vídeo armazenado para ver quando quiser.
 
 A grande vantagem do IPTV moderno é que ele geralmente combina o melhor dos dois mundos: oferece centenas de canais em direto e uma biblioteca de filmes e séries.
 
@@ -33,7 +33,7 @@ A grande vantagem do IPTV moderno é que ele geralmente combina o melhor dos doi
 
 Para o utilizador final, o processo é transparente e fácil. No entanto, compreender o básico ajuda a escolher um bom serviço e a resolver pequenos problemas.
 
-O sistema funciona através de uma arquitetura cliente-servidor. Quando seleciona um canal na sua lista de [**iptv portugal**](https://iptvportuguese.pt/), o seu dispositivo (cliente) envia um pedido ao servidor do fornecedor. O servidor, por sua vez, envia o fluxo de vídeo dividido em pequenos pacotes de dados pela internet. O seu dispositivo recebe estes pacotes, descodifica-os e apresenta a imagem no ecrã.
+O sistema funciona através de uma arquitetura cliente-servidor. Quando seleciona um canal na sua lista de [**iptv portugal**](/), o seu dispositivo (cliente) envia um pedido ao servidor do fornecedor. O servidor, por sua vez, envia o fluxo de vídeo dividido em pequenos pacotes de dados pela internet. O seu dispositivo recebe estes pacotes, descodifica-os e apresenta a imagem no ecrã.
 
 “A magia do IPTV reside na sua capacidade de interatividade. Ao contrário da TV tradicional, aqui o utilizador tem o controlo total sobre o que vê e quando vê.”
 
@@ -63,7 +63,7 @@ A variedade de conteúdo é, sem dúvida, o ponto forte desta tecnologia. Um bom
 
 ### 1. Canais de Desporto
 
-O futebol é rei em Portugal. Os serviços de IPTV são muito procurados para acompanhar a Primeira Liga, a Liga dos Campeões e outras competições internacionais. O acesso a canais desportivos premium é um requisito básico para a maioria dos utilizadores.
+O futebol é rei em Portugal. Os serviços de IPTV são muito procurados para acompanhar a liga portuguesa, as competições europeias e outras competições internacionais. O acesso a canais desportivos premium é um requisito básico para a maioria dos utilizadores.
 
 ### 2. Filmes e Séries (VOD)
 
@@ -165,7 +165,7 @@ Está pronto para começar? O processo de configuração geral segue estes passo
 
 ### O IPTV é legal em Portugal?
 
-A tecnologia IPTV em si é 100% legal. É apenas um meio de transmissão de vídeo. No entanto, a legalidade depende do conteúdo a que acede. Serviços como a Vodafone ou MEO usam IPTV. Aceder a canais pagos de forma não autorizada através de listas de terceiros pode infringir direitos de autor.
+A tecnologia IPTV em si é 100% legal. É apenas um meio de transmissão de vídeo. No entanto, a legalidade depende do conteúdo a que acede. As operadoras de televisão também usam IPTV. Aceder a canais pagos de forma não autorizada através de listas de terceiros pode infringir direitos de autor.
 
 ### Preciso de uma antena parabólica?
 

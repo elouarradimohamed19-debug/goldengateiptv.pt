@@ -61,7 +61,7 @@ Aplicativos IPTV precisam de atualizações constantes. Quando estão desatualiz
 
 ### 4. Lista M3U ou Login Incorretos
 
-Se a lista IPTV estiver expirada, mal configurada ou com dados errados, o [IPTV não funciona](https://iptvemportugal.pt/) corretamente.
+Se a lista IPTV estiver expirada, mal configurada ou com dados errados, o [IPTV não funciona](/) corretamente.
 
 Verifique sempre:
 

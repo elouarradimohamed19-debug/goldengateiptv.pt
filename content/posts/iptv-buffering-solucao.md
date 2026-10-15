@@ -20,7 +20,7 @@ Quando isso acontece, o vídeo pausa, carrega novamente e só então continua. E
 
 ## 🤔 Por que o IPTV fica travando?
 
-Antes de aplicar qualquer [IPTV buffering solução](https://iptvemportugal.pt/iptv-setup/), é essencial entender as causas mais comuns do problema. O buffering geralmente não tem uma única origem, mas sim uma combinação de fatores.
+Antes de aplicar qualquer [IPTV buffering solução](/iptv-setup), é essencial entender as causas mais comuns do problema. O buffering geralmente não tem uma única origem, mas sim uma combinação de fatores.
 
 As causas mais frequentes incluem:
 
@@ -166,4 +166,4 @@ Encontrar uma **IPTV buffering solução** eficiente é totalmente possível qua
 
 Com ajustes simples, boas práticas e atenção aos detalhes, é possível transformar a experiência com IPTV em algo fluido, estável e agradável, aproveitando todo o potencial dessa tecnologia moderna.
 
-> [IPTV Setup](https://iptvemportugal.pt/iptv-setup/)
+> [IPTV Setup](/iptv-setup)

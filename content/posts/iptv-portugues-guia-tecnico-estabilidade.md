@@ -8,7 +8,7 @@ category: "Guia · IPTV Portugal"
 
 ## IPTV Português: A Engenharia da Estabilidade e o Guia Definitivo de Seleção em 2026
 
-O ecossistema de [**IPTV Português**](https://iptvportuguese.pt/) evoluiu de uma simples alternativa de transmissão para uma infraestrutura complexa de entrega de conteúdos digitais. Em 2026, a diferença entre um serviço medíocre e uma experiência *premium* não reside apenas no número de canais, mas na arquitetura de rede e na capacidade de resposta aos protocolos de gestão de tráfego dos ISPs nacionais.
+O ecossistema de [**IPTV Português**](/) evoluiu de uma simples alternativa de transmissão para uma infraestrutura complexa de entrega de conteúdos digitais. Em 2026, a diferença entre um serviço medíocre e uma experiência *premium* não reside apenas no número de canais, mas na arquitetura de rede e na capacidade de resposta aos protocolos de gestão de tráfego dos ISPs nacionais.
 
 Este guia não é uma lista genérica. É uma análise técnica e comportamental desenhada para quem procura entender a mecânica por trás do *streaming*, mitigar riscos de segurança e garantir uma visualização sem interrupções (buffering) num mercado saturado de ofertas de baixa qualidade.
 
@@ -18,7 +18,7 @@ Para entender o **IPTV Português**, é necessário desconstruir a cadeia de ent
 
 ### O Papel da CDN e a Localização Geográfica
 
-Muitos fornecedores utilizam servidores em data centers distantes (Europa de Leste ou América do Norte), o que aumenta o *hop count* (saltos de rede). Para um utilizador em Portugal, a latência ideal deve ser inferior a 30ms para evitar o atraso em eventos em direto. Se o seu fornecedor não possui *edge nodes* próximos de Lisboa ou Madrid, a probabilidade de *buffering* em horários de pico (como jogos da Liga Portugal) aumenta exponencialmente.
+Muitos fornecedores utilizam servidores em data centers distantes (Europa de Leste ou América do Norte), o que aumenta o *hop count* (saltos de rede). Para um utilizador em Portugal, a latência ideal deve ser inferior a 30ms para evitar o atraso em eventos em direto. Se o seu fornecedor não possui *edge nodes* próximos de Lisboa ou Madrid, a probabilidade de *buffering* em horários de pico (como jogos da liga portuguesa) aumenta exponencialmente.
 
 **Insight Crítico:** O que a maioria ignora é o *Peering*. Se o seu fornecedor de IPTV não tem bons acordos de troca de tráfego com os principais ISPs portugueses, o tráfego será “estrangulado” (Throttling), independentemente de ter 1Gbps de fibra ótica em casa.
 

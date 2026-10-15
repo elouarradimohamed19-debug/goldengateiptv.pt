@@ -26,7 +26,7 @@ Para entender a base desta tecnologia, pode consultar o nosso artigo sobre o que
 
 ## Por que razão o IPTV bloqueia em Portugal?
 
-Muitos utilizadores acreditam que o problema é sempre do fornecedor, mas em Portugal existem bloqueios dinâmicos aplicados pelos operadores de internet (MEO, NOS, Vodafone). Estes bloqueios ocorrem frequentemente durante eventos desportivos em direto.
+Muitos utilizadores acreditam que o problema é sempre do fornecedor, mas em Portugal existem bloqueios dinâmicos aplicados pelos operadores de internet. Estes bloqueios ocorrem frequentemente durante eventos desportivos em direto.
 
 ### 1. Traffic Shaping e Bloqueios de DNS
 
@@ -106,7 +106,7 @@ A estabilidade é um investimento no seu lazer. Não deixe que problemas técnic
 
 ### Perguntas Frequentes (FAQ)
 
-**1. É legal usar IPTV em Portugal?** A tecnologia IPTV é 100% legal (como o serviço da MEO ou NOS). O que deve ter atenção é aos direitos de autor dos conteúdos que consome. Leia mais em IPTV é legal em Portugal?.
+**1. É legal usar IPTV em Portugal?** A tecnologia IPTV é 100% legal (como o serviço das operadoras de televisão). O que deve ter atenção é aos direitos de autor dos conteúdos que consome. Leia mais em IPTV é legal em Portugal?.
 
 **2. Posso usar IPTV no estrangeiro?** Sim, muitos portugueses que vivem fora utilizam estes serviços para matar saudades de casa. Temos um guia específico para IPTV para portugueses no estrangeiro.
 

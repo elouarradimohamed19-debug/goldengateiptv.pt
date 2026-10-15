@@ -23,7 +23,7 @@ Existem dois tipos principais de IPTV:
 
 A tecnologia em si **é totalmente legal**. O problema está **na origem do conteúdo**.
 
-## [IPTV é legal em Portugal?](https://iptvemportugal.pt/iptv-portugal-guia-completo/)
+## [IPTV é legal em Portugal?](/iptv-portugal-guia-completo)
 
 ### A resposta curta é: **depende do serviço**
 

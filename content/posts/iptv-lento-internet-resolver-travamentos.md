@@ -53,7 +53,7 @@ Agora que entendemos as causas, vamos às soluções práticas. Siga estes passo
 
 Primeiro, confirme se você está recebendo a velocidade pela qual paga.
 
-- **Ação:** Use sites confiáveis como Speedtest.net ou Fast.com (da Netflix) para medir sua velocidade. Faça o teste conectado via cabo de rede para ter a medição mais precisa.
+- **Ação:** Use sites confiáveis como Speedtest.net ou Fast.com para medir sua velocidade. Faça o teste conectado via cabo de rede para ter a medição mais precisa.
 
 ### 2. A Solução Definitiva: Use um Cabo de Rede (Ethernet)
 

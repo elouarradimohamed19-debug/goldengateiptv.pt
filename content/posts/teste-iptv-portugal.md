@@ -33,13 +33,13 @@ Ignorar a etapa do teste pode levar a vários problemas desagradáveis:
 
 ## Critérios Fundamentais para Avaliar um Teste IPTV em Portugal
 
-Ao realizar o seu [**Teste IPTV Portugal**](https://iptvportuguese.pt/), não fique apenas a mudar de canal aleatoriamente. Você precisa de um método. Abaixo, detalhamos os pilares técnicos que separam um serviço premium de um serviço amador.
+Ao realizar o seu [**Teste IPTV Portugal**](/), não fique apenas a mudar de canal aleatoriamente. Você precisa de um método. Abaixo, detalhamos os pilares técnicos que separam um serviço premium de um serviço amador.
 
 ### 1. Estabilidade e “Anti-Freeze”
 
 A estabilidade é o rei. De nada adianta ter 10.000 canais se eles travam a cada 10 segundos. Durante o teste, observe:
 
-O serviço mantém-se estável durante eventos desportivos importantes? É fácil manter um canal a funcionar numa terça-feira de manhã, mas o verdadeiro teste é durante um “Clássico” ou um jogo da Liga dos Campeões. Se o servidor não tiver balanceamento de carga (Load Balancing), ele irá falhar quando houver muitos utilizadores conectados.
+O serviço mantém-se estável durante eventos desportivos importantes? É fácil manter um canal a funcionar numa terça-feira de manhã, mas o verdadeiro teste é durante um “Clássico” ou um jogo das competições europeias. Se o servidor não tiver balanceamento de carga (Load Balancing), ele irá falhar quando houver muitos utilizadores conectados.
 
 ### 2. Qualidade de Imagem Real (SD, HD, FHD, 4K)
 
@@ -57,7 +57,7 @@ O tempo de resposta entre clicar no comando e a imagem aparecer é chamado de �
 
 Muitas vezes, o utilizador culpa o fornecedor de IPTV, mas o problema está na sua própria configuração doméstica. Para garantir que o seu **Teste IPTV Portugal** seja justo e preciso, siga estas diretrizes técnicas.
 
-**Nota Importante sobre a Internet:**  Em Portugal, operadoras como MEO, NOS e Vodafone possuem excelentes infraestruturas de fibra. No entanto, o uso de Wi-Fi é o maior inimigo do IPTV. Se possível, conecte o seu dispositivo (TV Box ou Smart TV) diretamente ao router via **Cabo de Rede (Ethernet)**. Isso reduz drasticamente a instabilidade.
+**Nota Importante sobre a Internet:**  Em Portugal, as operadoras nacionais possuem excelentes infraestruturas de fibra. No entanto, o uso de Wi-Fi é o maior inimigo do IPTV. Se possível, conecte o seu dispositivo (TV Box ou Smart TV) diretamente ao router via **Cabo de Rede (Ethernet)**. Isso reduz drasticamente a instabilidade.
 
 ### Requisitos Mínimos de Velocidade
 

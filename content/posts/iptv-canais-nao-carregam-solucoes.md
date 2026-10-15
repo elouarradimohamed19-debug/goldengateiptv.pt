@@ -26,7 +26,7 @@ Se nenhuma destas soluções rápidas funcionou, não se preocupe. Vamos agora f
 
 ### **Diagnóstico Passo a Passo: Encontrando a Causa do Problema**
 
-Quando os **[IPTV canais](https://iptvemportugal.pt/) não carregam**, o problema pode estar em quatro áreas principais: a sua **Rede**, o seu **Dispositivo**, a sua **Aplicação** ou o seu **Fornecedor**. Vamos investigar cada uma delas.
+Quando os **[IPTV canais](/) não carregam**, o problema pode estar em quatro áreas principais: a sua **Rede**, o seu **Dispositivo**, a sua **Aplicação** ou o seu **Fornecedor**. Vamos investigar cada uma delas.
 
 #### **Passo 1: Verificar a Fundo a Sua Conexão à Internet**
 
@@ -34,7 +34,7 @@ Já testou a velocidade, mas vamos mais longe. Uma internet lenta ou instável �
 
 - **O Problema do Wi-Fi:** O sinal Wi-Fi pode ser instável, especialmente se o router estiver longe da sua TV. Paredes e outros aparelhos eletrónicos podem causar interferência.
   - **Solução:** Se possível, ligue a sua TV ou TV Box diretamente ao router com um **cabo de rede (Ethernet)** . Uma ligação por cabo é sempre mais estável e rápida do que o Wi-Fi. Se não for possível, tente aproximar o router da TV.
-- **Muitos Dispositivos Conectados:** Se várias pessoas em casa estiverem a usar a internet intensivamente (a ver Netflix em 4K, a jogar online, a fazer downloads), isso pode “roubar” a largura de banda necessária para o seu IPTV.
+- **Muitos Dispositivos Conectados:** Se várias pessoas em casa estiverem a usar a internet intensivamente (a ver filmes em streaming 4K, a jogar online, a fazer downloads), isso pode “roubar” a largura de banda necessária para o seu IPTV.
   - **Solução:** Tente usar o IPTV num momento em que a rede esteja menos congestionada para ver se o problema desaparece.
 
 #### **Passo 2: A Atualização e o Cache da Sua Aplicação**
@@ -79,7 +79,7 @@ Se chegou à conclusão de que o problema não está do seu lado, é hora de con
 
 ### **Conclusão: O Processo de Eliminação é a Chave**
 
-Quando se depara com a frustração de ter os **[IPTV canais](https://iptvportuguese.pt/) que não carregam**, lembre-se que a solução é quase sempre um processo de eliminação lógico. Comece pelo mais simples (reiniciar) e vá avançando passo a passo, isolando a causa do problema.
+Quando se depara com a frustração de ter os **[IPTV canais](/) que não carregam**, lembre-se que a solução é quase sempre um processo de eliminação lógico. Comece pelo mais simples (reiniciar) e vá avançando passo a passo, isolando a causa do problema.
 
 Na grande maioria das vezes, uma reinicialização geral ou uma limpeza de cache resolve o problema. Noutras, a falha está no serviço do fornecedor. Seguindo este guia, você não só resolve o problema de hoje, como adquire o conhecimento para diagnosticar e resolver rapidamente qualquer falha que possa surgir no futuro. Agora, com o seu serviço a funcionar, pode finalmente relaxar e desfrutar.
 

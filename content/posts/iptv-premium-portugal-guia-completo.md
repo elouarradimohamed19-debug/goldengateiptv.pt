@@ -8,7 +8,7 @@ category: "Guia · IPTV Portugal"
 
 ## IPTV Premium Portugal: Guia Técnico Completo Para Escolher com Segurança
 
-O mercado de [**IPTV premium Portugal**](https://iptvportuguese.pt/) cresceu de forma exponencial nos últimos anos. No entanto, a maioria dos utilizadores ainda escolhe serviços com base apenas no preço ou no número de canais — dois critérios insuficientes para garantir estabilidade real.
+O mercado de [**IPTV premium Portugal**](/) cresceu de forma exponencial nos últimos anos. No entanto, a maioria dos utilizadores ainda escolhe serviços com base apenas no preço ou no número de canais — dois critérios insuficientes para garantir estabilidade real.
 
 Este guia foi estruturado para eliminar incertezas. Aqui analisamos infraestrutura, performance técnica, modelo de mercado, riscos, benchmarks reais e o framework profissional de decisão.
 

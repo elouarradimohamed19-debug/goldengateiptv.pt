@@ -8,7 +8,7 @@ category: "Guia · IPTV Portugal"
 
 ## Preço IPTV Portugal: Quanto Custa Realmente e Como Avaliar Antes de Assinar
 
-Quando alguém pesquisa [**Preço IPTV Portugal**](https://iptvemportugal.pt/), raramente quer apenas um número. Quer saber se o valor compensa, se é seguro, se vai funcionar sem travar e se está a pagar o preço justo ou a cair numa armadilha.
+Quando alguém pesquisa [**Preço IPTV Portugal**](/), raramente quer apenas um número. Quer saber se o valor compensa, se é seguro, se vai funcionar sem travar e se está a pagar o preço justo ou a cair numa armadilha.
 
 A realidade é simples: o preço do IPTV em Portugal varia muito — mas a diferença raramente está apenas na quantidade de canais. Está na infraestrutura, na estabilidade, na gestão de utilizadores simultâneos e na forma como o serviço é distribuído.
 

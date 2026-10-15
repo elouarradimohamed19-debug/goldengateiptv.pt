@@ -20,7 +20,7 @@ Neste guia detalhado, vamos analisar as melhores opções disponíveis em 2026, 
 
 Imagine que uma aplicação de IPTV é como um leitor de multimédia superavançado, como o VLC ou o Media Player, mas desenhado especificamente para organizar e reproduzir canais de televisão transmitidos pela internet.
 
-É crucial entender isto: **uma aplicação de [IPTV](https://iptvemportugal.pt/) é uma “concha” vazia**. Ela não vem com canais, filmes ou séries. A sua função é ler, interpretar e apresentar de forma organizada a lista de canais que você lhe fornece. Essa lista, geralmente fornecida por um provedor de serviços IPTV, pode vir em dois formatos principais:
+É crucial entender isto: **uma aplicação de [IPTV](/) é uma “concha” vazia**. Ela não vem com canais, filmes ou séries. A sua função é ler, interpretar e apresentar de forma organizada a lista de canais que você lhe fornece. Essa lista, geralmente fornecida por um provedor de serviços IPTV, pode vir em dois formatos principais:
 
 - **Ficheiro ou URL M3U:** Um ficheiro de texto simples que contém os links para os streams dos canais.
 - **API (Xtream Codes):** Um método de login mais robusto que inclui um nome de utilizador, senha e um endereço de servidor, permitindo uma integração mais rica com guias de programação (EPG).

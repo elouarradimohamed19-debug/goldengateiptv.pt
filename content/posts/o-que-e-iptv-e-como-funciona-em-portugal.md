@@ -24,7 +24,7 @@ Em vez de receber o sinal de televisão através de ondas de rádio (como na TV 
 
 ### A diferença para a TV Tradicional
 
-Para entender verdadeiramente[ o que é IPTV e como funciona em Portugal](https://iptvemportugal.pt/iptv-portugal-guia-completo/), imagine o seguinte cenário:
+Para entender verdadeiramente[ o que é IPTV e como funciona em Portugal](/iptv-portugal-guia-completo), imagine o seguinte cenário:
 
 - **TV Tradicional (Cabo/Satélite):** A emissora envia todos os canais ao mesmo tempo para a sua casa. Você apenas “sintoniza” um deles. É como abrir uma torneira onde a água flui constantemente, quer você a beba ou não.
 - **IPTV:** O conteúdo fica armazenado em servidores. Quando você clica num canal ou filme, o seu dispositivo envia um pedido ao servidor, e o servidor envia apenas aquele conteúdo específico para si. É um serviço “a pedido”.
@@ -33,7 +33,7 @@ Para entender verdadeiramente[ o que é IPTV e como funciona em Portugal](https:
 
 ## Como funciona o IPTV em Portugal?
 
-Em Portugal, a infraestrutura de fibra ótica cresceu imenso nos últimos anos. Operadoras como a MEO, NOS e Vodafone investiram fortemente na modernização das redes. Isso criou o terreno perfeito para o IPTV florescer.
+Em Portugal, a infraestrutura de fibra ótica cresceu imenso nos últimos anos. As operadoras nacionais investiram fortemente na modernização das redes. Isso criou o terreno perfeito para o IPTV florescer.
 
 O funcionamento ocorre em três etapas principais:
 
@@ -53,11 +53,11 @@ O universo do IPTV não é todo igual. Existem diferentes formatos de conteúdo 
 
 ### 1. Televisão ao Vivo (Live IP)
 
-Este é o formato que substitui a TV tradicional. Permite assistir a transmissões em tempo real, como jogos de futebol da Primeira Liga, noticiários ou programas de entretenimento, exatamente no momento em que acontecem.
+Este é o formato que substitui a TV tradicional. Permite assistir a transmissões em tempo real, como jogos de futebol da liga portuguesa, noticiários ou programas de entretenimento, exatamente no momento em que acontecem.
 
 ### 2. Video on Demand (VOD)
 
-O VOD funciona como uma videoteca gigante. Serviços como a Netflix ou o Disney+ são exemplos técnicos de VOD (embora operem numa categoria diferente de OTT). No contexto de serviços IPTV, o VOD refere-se a uma biblioteca de filmes e séries incluída no pacote, que pode ver quando quiser.
+O VOD funciona como uma videoteca gigante. As plataformas de streaming por subscrição são exemplos técnicos de VOD (embora operem numa categoria diferente de OTT). No contexto de serviços IPTV, o VOD refere-se a uma biblioteca de filmes e séries incluída no pacote, que pode ver quando quiser.
 
 ### 3. Time-Shifted TV (Catch-up TV)
 
@@ -109,7 +109,7 @@ Este é um ponto crucial quando discutimos o que é IPTV e como funciona em Port
 
 No entanto, a forma como o serviço é adquirido faz toda a diferença:
 
-- **Serviços Legais:** Serviços fornecidos por operadoras (MEO, NOS, Vodafone) ou plataformas de streaming pagas que detêm os direitos de transmissão dos canais e filmes. Estes são seguros, estáveis e cumprem a lei portuguesa.
+- **Serviços Legais:** Serviços fornecidos por operadoras ou plataformas de streaming pagas que detêm os direitos de transmissão dos canais e filmes. Estes são seguros, estáveis e cumprem a lei portuguesa.
 - **Serviços “Cinzentos” ou Ilegais:** Listas compradas na internet por valores muito baixos que oferecem milhares de canais pagos (incluindo canais de desporto premium) sem deterem os direitos de autor. O uso destes serviços pode acarretar riscos de segurança e instabilidade.
 
 > “Como consumidor, deve priorizar serviços que garantam a segurança dos seus dados e a qualidade da transmissão. O barato sai muitas vezes caro quando a imagem para a meio do golo da sua equipa.”
