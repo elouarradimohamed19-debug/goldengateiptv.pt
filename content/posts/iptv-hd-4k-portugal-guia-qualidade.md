@@ -54,7 +54,7 @@ Antes de se comprometer com um plano a longo prazo, é altamente recomendável r
 
 Configurar o seu sistema corretamente é o que separa um utilizador comum de um entusiasta. Em Portugal, a configuração varia dependendo do seu operador de internet e do dispositivo escolhido. O processo envolve geralmente a inserção de uma lista M3U ou a configuração via API Xtream Codes.
 
-Se tiver dúvidas sobre os passos técnicos, consulte o nosso guia sobre a [configuração de IPTV em Portugal](/configuracao-iptv-portugal) para um passo a passo detalhado.
+Se tiver dúvidas sobre os passos técnicos, consulte o nosso guia sobre a [configuração de IPTV em Portugal](/iptv-setup) para um passo a passo detalhado.
 
 Muitos utilizadores enfrentam barreiras geográficas ou bloqueios de ISP. Nestes casos, garantir que está a utilizar o [melhor IPTV para Portugal](/melhor-iptv-para-portugal) faz toda a diferença na estabilidade e na legalidade da sua visualização.
 
@@ -82,7 +82,7 @@ Um tema recorrente é a legitimidade deste serviço. É fundamental distinguir e
 
 A experiência de **IPTV HD e 4K Portugal** representa o topo da montanha no entretenimento doméstico. Com a combinação certa de uma internet robusta, hardware de qualidade e um fornecedor fiável, a sua sala transforma-se num estádio de futebol ou numa sala de cinema privada. Lembre-se sempre de testar a sua ligação e manter o software atualizado para evitar o temido [buffering](/iptv-buffering-solucao).
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
 ### Qual é a velocidade de internet necessária para IPTV 4K em Portugal?
 
@@ -104,4 +104,4 @@ A segurança depende da fonte. Deve optar sempre por serviços que protejam os s
 
 Nem todas. Para suportar 4K, a TV deve ter um painel Ultra HD e um processador capaz de descodificar vídeos em alta taxa de bits. Se a sua TV for antiga, a melhor solução é adquirir uma Box externa (como o Fire Stick 4K) que suporte essa resolução e ligá-la à porta HDMI da televisão.
 
-> [IPTV Portugal: Guia Completo Para Ver TV Online e Streaming](/iptv-portugal-guia)
+> [Guia IPTV Portugal: Como Funciona, Requisitos e Como Escolher](/iptv-portugal-guia)

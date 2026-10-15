@@ -40,7 +40,7 @@ A Google Play Store oferece um mar de opções. Para o ajudar a navegar, criámo
 
 ## Guia de Configuração Passo a Passo para IPTV Android
 
-A [configuração do IPTV](/configuracao-iptv-portugal) num dispositivo Android é, felizmente, um processo simples. Vamos usar o **IPTV Smarters Pro**, uma das apps mais populares, como exemplo.
+A [configuração do IPTV](/iptv-setup) num dispositivo Android é, felizmente, um processo simples. Vamos usar o **IPTV Smarters Pro**, uma das apps mais populares, como exemplo.
 
 1. **Instalar a Aplicação:** Na sua Android TV ou TV Box, abra a Google Play Store, pesquise por “IPTV Smarters Pro” e instale a aplicação.
 2. **Obter os seus Dados de Acesso:** O seu fornecedor de IPTV deve ter-lhe fornecido os dados da API Xtream Codes: um **Nome de utilizador** , uma **Palavra-passe** e um **URL do Servidor** (que geralmente termina em :8080 ou similar).

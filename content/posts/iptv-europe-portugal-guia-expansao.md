@@ -122,6 +122,6 @@ A expansão do **IPTV Europe Portugal** reflete uma mudança cultural. Portugal 
 - Compatibilidade com múltiplos dispositivos.
 - Custo reduzido e flexibilidade de subscrição.
 
-Se procura a excelência técnica, não deixe de ler o nosso [guia técnico de estabilidade para IPTV português](/iptv-portugues-guia-tecnico-estabilidade).
+Se procura a excelência técnica, não deixe de ler o nosso [guia técnico de estabilidade para IPTV português](/iptv-estavel-em-portugal).
 
-> [Configuração IPTV Portugal: Guia Completo e Passo a Passo 2026](/configuracao-iptv-portugal)
+> [Configuração IPTV Portugal: Guia Completo e Passo a Passo 2026](/iptv-setup)

@@ -187,7 +187,7 @@ Planos excessivamente caros nem sempre garantem qualidade superior.
 
 O ponto ideal é equilíbrio entre infraestrutura real, suporte, qualidade de transmissão e custo anual sustentável.
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
 ### Qual é o preço justo para IPTV estável em Portugal?
 
@@ -217,4 +217,4 @@ Sim, se o serviço já foi testado e demonstrou estabilidade consistente.
 
 Teste antes de pagar e escolha fornecedores com infraestrutura comprovada.
 
-> [IPTV Portugal: Guia Completo Para Ver TV Online e Streaming](/iptv-portugal-guia)
+> [Guia IPTV Portugal: Como Funciona, Requisitos e Como Escolher](/iptv-portugal-guia)

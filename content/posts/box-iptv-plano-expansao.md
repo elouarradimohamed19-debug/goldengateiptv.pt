@@ -1,5 +1,5 @@
 ---
-title: "Box IPTV O Guia Definitivo e Plano de Expansão para 202"
+title: "Box IPTV: Como Escolher, Configurar e Tirar o Máximo Partido"
 description: "Descubra tudo sobre a box IPTV. O nosso guia e plano de expansão ajudam-no a escolher, configurar e otimizar o seu entretenimento."
 date: "2026-10-15"
 category: "Guia · IPTV Portugal"
@@ -64,7 +64,7 @@ Depois de adquirir a sua **box IPTV**, o processo de configuração é bastante 
 4. **Inserção de Dados:** Abra a aplicação e insira os dados fornecidos pelo seu serviço de IPTV (geralmente, o URL do servidor, o Nome de Utilizador e a Palavra-passe através da API Xtream Codes, ou através de um Link M3U).
 5. **Sincronização:** Aguarde alguns segundos enquanto a **box IPTV** descarrega a lista de canais, filmes (VOD) e séries. E já está!
 
-Se encontrar dificuldades durante este processo, preparámos um tutorial técnico exaustivo. Veja a nossa página detalhada sobre a [configuração IPTV](/configuracao-iptv-portugal).
+Se encontrar dificuldades durante este processo, preparámos um tutorial técnico exaustivo. Veja a nossa página detalhada sobre a [configuração IPTV](/iptv-setup).
 
 ## Manutenção e Atualizações da Box IPTV
 

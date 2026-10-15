@@ -32,7 +32,7 @@ Um bom serviço deve oferecer um guia de programação (EPG) atualizado e a fun�
 
 ## Configuração Passo a Passo para Emigrantes
 
-Configurar o IPTV no estrangeiro não difere muito do processo em solo nacional, mas requer atenção a alguns detalhes técnicos. Se tiver dúvidas, pode consultar o nosso manual de [configuração IPTV](/configuracao-iptv-portugal) para uma orientação mais profunda.
+Configurar o IPTV no estrangeiro não difere muito do processo em solo nacional, mas requer atenção a alguns detalhes técnicos. Se tiver dúvidas, pode consultar o nosso manual de [configuração IPTV](/iptv-setup) para uma orientação mais profunda.
 
 1. **Escolha o Dispositivo:** Recomendamos uma Android TV Box ou um Amazon Fire Stick pela facilidade de instalação.
 2. **Instale a Aplicação:** Procure a [melhor aplicação IPTV para Smart TV](/melhor-aplicacao-iptv-para-smart-tv) ou dispositivos Android.
@@ -81,7 +81,7 @@ O **IPTV para portugueses no estrangeiro** é muito mais do que apenas televisã
 
 Garanta que escolhe um serviço estável, proteja a sua ligação e, acima de tudo, desfrute do melhor que a nossa televisão tem para oferecer, onde quer que a vida o tenha levado.
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
 ### Existem formas oficiais de ver canais portugueses no estrangeiro?
 
@@ -103,4 +103,4 @@ Geralmente sim, o [IPTV](/) baseia-se na sua conta e não na sua localização f
 
 O delay é inerente ao streaming digital, mas pode ser minimizado escolhendo fornecedores com servidores próximos da sua localização atual. Se a imagem está muito atrasada em relação ao direto, tente reiniciar o fluxo do canal na sua aplicação.
 
-> [IPTV Portugal: Guia Completo Para Ver TV Online e Streaming](/iptv-portugal-guia)
+> [Guia IPTV Portugal: Como Funciona, Requisitos e Como Escolher](/iptv-portugal-guia)

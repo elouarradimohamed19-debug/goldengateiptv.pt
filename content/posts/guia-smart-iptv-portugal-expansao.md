@@ -36,7 +36,7 @@ Nem todas as aplicações são criadas da mesma forma. A escolha do software cor
 
 ## Configuração Passo a Passo: Do Zero ao 4K
 
-Configurar o seu sistema não precisa de ser um pesadelo técnico. O processo de [configuração IPTV Portugal](/configuracao-iptv-portugal) segue geralmente estes passos:
+Configurar o seu sistema não precisa de ser um pesadelo técnico. O processo de [configuração IPTV Portugal](/iptv-setup) segue geralmente estes passos:
 
 1. **Instalação da App:** Descarregue a aplicação diretamente da loja oficial da sua TV.
 2. **Identificação do Endereço MAC:** Cada dispositivo tem um código único necessário para carregar a lista.
@@ -68,7 +68,7 @@ Antes de se comprometer com uma anuidade, recomendamos sempre solicitar um [test
 
 ## Smart IPTV para Portugueses no Estrangeiro
 
-A comunidade emigrante é uma das maiores beneficiárias desta tecnologia. Manter a ligação com a cultura e a informação nacional é mais fácil através do [IPTV para portugueses no estrangeiro](/iptv-para-portugueses-no-estrangeiro). Independentemente de estar em França, Alemanha ou Luxemburgo, pode aceder aos [canais portugueses IPTV](/canais-portugueses-iptv-guia-estabilidade) com a mesma qualidade de quem está em Lisboa.
+A comunidade emigrante é uma das maiores beneficiárias desta tecnologia. Manter a ligação com a cultura e a informação nacional é mais fácil através do [IPTV para portugueses no estrangeiro](/iptv-para-portugueses-no-estrangeiro). Independentemente de estar em França, Alemanha ou Luxemburgo, pode aceder aos [canais portugueses IPTV](/iptv-estavel-em-portugal) com a mesma qualidade de quem está em Lisboa.
 
 ## Resolução de Problemas Comuns (Troubleshooting)
 
@@ -78,15 +78,15 @@ Se o seu [IPTV não funciona](/iptv-nao-funciona-guia-completo-para-resolver-tod
 2. **App Desatualizada:** Certifique-se de que está a usar a versão mais recente.
 3. **Bloqueio de DNS:** Alterar os DNS do seu router para os da Google (8.8.8.8) ou Cloudflare (1.1.1.1) resolve 80% dos problemas de conexão.
 
-Para questões mais profundas, consulte o nosso [guia técnico de estabilidade IPTV português](/iptv-portugues-guia-tecnico-estabilidade).
+Para questões mais profundas, consulte o nosso [guia técnico de estabilidade IPTV português](/iptv-estavel-em-portugal).
 
 ## O Futuro: Expansão e Novas Tecnologias em 2026
 
-O setor está a evoluir para sistemas baseados em inteligência artificial que antecipam o carregamento de canais (pre-fetching) para eliminar qualquer latência. O nosso [guia completo de IPTV em Portugal](/iptv-portugal-guia-completo) reflete estas mudanças, focando-se em servidores de baixa latência espalhados estrategicamente pela Europa para garantir que a experiência de [assinar IPTV em Portugal](/assinar-iptv-em-portugal) seja superior à televisão convencional.
+O setor está a evoluir para sistemas baseados em inteligência artificial que antecipam o carregamento de canais (pre-fetching) para eliminar qualquer latência. O nosso [guia completo de IPTV em Portugal](/iptv-portugal-guia) reflete estas mudanças, focando-se em servidores de baixa latência espalhados estrategicamente pela Europa para garantir que a experiência de [assinar IPTV em Portugal](/assinar-iptv-em-portugal) seja superior à televisão convencional.
 
 ## Conclusão: Vale a pena investir em Smart IPTV?
 
-Se valoriza a diversidade de conteúdos, a qualidade de imagem e a conveniência de ter tudo num único dispositivo, a resposta é um sim absoluto. Ao seguir as diretrizes deste [guia completo de IPTV Portugal](/iptv-portugal-guia-completo), estará a garantir um sistema robusto e duradouro.
+Se valoriza a diversidade de conteúdos, a qualidade de imagem e a conveniência de ter tudo num único dispositivo, a resposta é um sim absoluto. Ao seguir as diretrizes deste [guia completo de IPTV Portugal](/iptv-portugal-guia), estará a garantir um sistema robusto e duradouro.
 
 Seja para acompanhar a liga portuguesa, ver as últimas estreias de Hollywood ou garantir entretenimento infantil, o Smart IPTV é a ferramenta definitiva.
 

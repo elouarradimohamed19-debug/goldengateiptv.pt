@@ -159,7 +159,7 @@ Escolher um fornecedor IPTV em Portugal exige análise técnica, avaliação de 
 
 Uma decisão bem estruturada reduz falhas, evita golpes e garante experiência consistente.
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
 ### Qual a velocidade mínima de internet para IPTV?
 
@@ -185,4 +185,4 @@ Sim, mas pode haver maior latência dependendo do servidor.
 
 Não. Indica servidor sobrecarregado ou problema de rota.
 
-> [IPTV Portugal: Guia Completo Para Ver TV Online e Streaming](/iptv-portugal-guia)
+> [Guia IPTV Portugal: Como Funciona, Requisitos e Como Escolher](/iptv-portugal-guia)

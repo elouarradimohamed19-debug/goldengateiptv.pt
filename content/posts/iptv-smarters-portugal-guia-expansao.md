@@ -1,5 +1,5 @@
 ---
-title: "IPTV Smarters Pro em Portugal O Guia Definitivo e Plano de Expansão 2026"
+title: "IPTV Smarters Pro em Portugal: Guia de Instalação e Configuração"
 description: "O mundo do entretenimento digital sofreu uma transformação radical nos últimos anos. Em Portugal, a procura por flexibilidade, qualidade de imagem e…"
 date: "2026-10-15"
 category: "Guia · IPTV Portugal"

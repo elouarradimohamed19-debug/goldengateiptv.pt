@@ -53,7 +53,7 @@ Configurar o seu leitor de canais é um processo geralmente direto. Siga estes p
 3. **Insira os Dados:** Digite cuidadosamente o URL do servidor, o seu *Username* e *Password*. Dê um nome à lista (ex: “Minha TV”).
 4. **Aguarde o Carregamento:** A aplicação irá agora descarregar os canais, o guia de programação (EPG) e as capas dos filmes. Este processo pode demorar alguns minutos na primeira vez.
 
-Para tutoriais mais detalhados sobre marcas e modelos específicos, consulte o nosso guia passo-a-passo sobre a [configuração do seu serviço IPTV](/configuracao-iptv-portugal).
+Para tutoriais mais detalhados sobre marcas e modelos específicos, consulte o nosso guia passo-a-passo sobre a [configuração do seu serviço IPTV](/iptv-setup).
 
 ### Problemas Comuns e Soluções no Seu Aplicativo IPTV
 

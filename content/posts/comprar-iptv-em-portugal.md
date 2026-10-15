@@ -35,7 +35,7 @@ A maioria dos utilizadores enquadra-se em três perfis:
 - **Perfil Intermédio:** quer desporto, 4K e VOD.
 - **Perfil Avançado:** múltiplas ligações, baixa latência e alta performance.
 
-Se procura algo premium, pode comparar com [IPTV Premium em Portugal](/iptv-premium-portugal-guia-completo) para entender as diferenças estruturais.
+Se procura algo premium, pode comparar com [IPTV Premium em Portugal](/melhor-iptv-para-portugal) para entender as diferenças estruturais.
 
 ## 3. Estrutura do Mercado IPTV em Portugal
 
@@ -166,7 +166,7 @@ Comprar IPTV em Portugal não deve ser uma decisão impulsiva baseada apenas em 
 
 Se seguir os critérios deste guia, reduz drasticamente o risco de instabilidade e aumenta a probabilidade de escolher um serviço sólido e sustentável.
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
 ### Qual é o preço médio para comprar IPTV em Portugal?
 

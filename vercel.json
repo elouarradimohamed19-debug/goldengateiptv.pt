@@ -6,7 +6,7 @@
   "redirects": [
     {
       "source": "/iptv-portuguesse-plano-expansao",
-      "destination": "/iptv-portugal-guia-completo",
+      "destination": "/iptv-portugal-guia",
       "permanent": true
     },
     {
@@ -22,6 +22,41 @@
     {
       "source": "/lista-iptv-portugal-gratis-plano-expansao",
       "destination": "/iptv-barato-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/iptv-portugal-guia-completo",
+      "destination": "/iptv-portugal-guia",
+      "permanent": true
+    },
+    {
+      "source": "/melhor-iptv-portugal-guia-completo",
+      "destination": "/melhor-iptv-para-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/iptv-premium-portugal-guia-completo",
+      "destination": "/melhor-iptv-para-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/iptv-portugues-guia-tecnico-estabilidade",
+      "destination": "/iptv-estavel-em-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/canais-portugueses-iptv-guia-estabilidade",
+      "destination": "/iptv-estavel-em-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/iptv-smart-player-melhor-opcao-entretenimento",
+      "destination": "/iptv-smart-player-melhor-opcao",
+      "permanent": true
+    },
+    {
+      "source": "/configuracao-iptv-portugal",
+      "destination": "/iptv-setup",
       "permanent": true
     }
   ]
